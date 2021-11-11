@@ -1,0 +1,27 @@
+Clonar Repositório:
+	
+	git clone [url]
+
+Iniciar repositório:
+	
+	git init
+
+Definir o autor e o e-mail para os commits:
+
+	git config --global user.name [usuário]
+	git config --global user.name [e-mail]
+
+Salvar as mudanças no repositório online:
+
+	git add -A
+	git commit -m "Aqui vai o seu commit"
+
+Enviar os arquivos do diretório local para o repositório on-line:
+
+	git push origin main
+	
+
+
+
+
+
